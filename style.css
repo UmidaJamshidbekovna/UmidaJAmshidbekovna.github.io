@@ -1,3 +1,6 @@
+body{
+    background: aquamarine;
+}
 .container{
     width: 1110px;
     margin: 0 auto;
@@ -12,7 +15,7 @@
     display: flex;
 }
 .mood img{
-    border-radius: 50%;
+    
     padding-right: 100px;
 }
 h1{
